@@ -1,0 +1,158 @@
+.logo-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 364px;
+  height: 55px;
+}
+.logo-1-icon1 {
+  position: absolute;
+  top: 3px;
+  left: 74px;
+  width: 221px;
+  height: 48px;
+  object-fit: cover;
+}
+.logo1 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  width: 364px;
+  height: 55px;
+}
+.earth-1-icon,
+.register-child {
+  position: absolute;
+  top: 44px;
+  width: 360px;
+}
+.earth-1-icon {
+  left: 0;
+  height: 219px;
+  object-fit: cover;
+}
+.register-child {
+  left: 2px;
+  background-color: rgba(18, 16, 16, 0.5);
+  height: 760px;
+}
+.register-item {
+  position: absolute;
+  top: 258px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 360px;
+  height: 1087px;
+}
+.pin-code1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 177px;
+  height: 38px;
+}
+.pin-code-child {
+  position: absolute;
+  top: 52px;
+  left: 2px;
+  background-color: var(--color-gainsboro);
+  width: 295px;
+  height: 47px;
+}
+.pin-code {
+  position: absolute;
+  top: 974px;
+  left: 25px;
+  width: 297px;
+  height: 99px;
+}
+.towards-a-new {
+  font-size: 24px;
+}
+.humanitys-future {
+  font-size: 31px;
+}
+.moon {
+  font-size: var(--font-size-19xl);
+}
+.boarding-pass,
+.towards-a-new-container {
+  position: absolute;
+  top: 116px;
+  left: 40px;
+  font-weight: 600;
+  display: inline-block;
+  width: 282px;
+  height: 142px;
+  font-size: var(--font-size-8xl);
+}
+.boarding-pass {
+  top: 323px;
+  font-size: var(--font-size-19xl);
+  width: 283px;
+  height: 83px;
+}
+.country,
+.email,
+.launch-button-child,
+.name,
+.phone {
+  position: absolute;
+  top: 418px;
+  left: 26px;
+  width: 297px;
+  height: 99px;
+}
+.country,
+.email,
+.launch-button-child,
+.phone {
+  top: 832px;
+}
+.country,
+.email,
+.launch-button-child {
+  top: 691px;
+  left: 25px;
+}
+.email,
+.launch-button-child {
+  top: 549px;
+}
+.launch-button-child {
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #4613d7;
+  height: 59px;
+}
+.launch-my-name {
+  position: absolute;
+  top: 10px;
+  left: 19px;
+  font-weight: 600;
+  display: inline-block;
+  width: 267px;
+  height: 33px;
+}
+.launch-button {
+  position: absolute;
+  top: 1146px;
+  left: 26px;
+  width: 297px;
+  height: 59px;
+}
+.register {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1345px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-10xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
