@@ -1,0 +1,98 @@
+.logo-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 360px;
+  height: 55px;
+}
+.logo-1-icon1 {
+  position: absolute;
+  top: 8px;
+  left: 76px;
+  width: 221px;
+  height: 48px;
+  object-fit: cover;
+}
+.logo1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 56px;
+}
+.landing-1-icon {
+  top: 56px;
+  border-radius: 7px;
+  height: 701px;
+  object-fit: cover;
+}
+.landing-1-icon,
+.thanks-child,
+.thanks-item {
+  position: absolute;
+  left: 0;
+  width: 360px;
+}
+.thanks-child {
+  top: 58px;
+  background-color: rgba(15, 14, 14, 0.5);
+  height: 1066px;
+}
+.thanks-item {
+  top: 761px;
+  background-color: var(--color-gray-400);
+  height: 363px;
+}
+.making {
+  margin: 0;
+}
+.humanity1 {
+  font-weight: 600;
+}
+.humanity,
+.multi- {
+  margin: 0;
+  font-size: var(--font-size-16xl);
+}
+.multi- {
+  font-size: var(--font-size-22xl);
+}
+.making-humanity-multi-container {
+  position: absolute;
+  top: 149px;
+  left: 28px;
+  display: inline-block;
+  width: 325px;
+  height: 248px;
+}
+.thanks-for-registering-container,
+.you-can-download {
+  position: absolute;
+  top: 424px;
+  left: 50px;
+  font-size: var(--font-size-23xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 281px;
+  height: 101px;
+}
+.you-can-download {
+  top: 567px;
+  left: 21px;
+  font-size: var(--font-size-lgi);
+  text-align: center;
+  width: 315px;
+  height: 48px;
+}
+.thanks {
+  position: relative;
+  background-color: var(--primary-contrast);
+  width: 100%;
+  height: 1124px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-14xl);
+  color: var(--primary-contrast);
+  font-family: var(--font-inter);
+}
